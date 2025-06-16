@@ -1,6 +1,6 @@
 # dotman — a dotfiles manager that doesn't suck™
 
-![iusearchbtw](archbtw.jpg)
+![iusearchbtw](docs/archbtw.jpg)
 
 > Because managing dotfiles is a pain in the a**  
 > So this one's for the *"i use arch btw"* crowd
